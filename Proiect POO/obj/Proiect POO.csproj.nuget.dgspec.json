@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\POO\\Proiect POO\\Proiect POO\\Proiect POO.csproj": {}
+    "E:\\POO\\Proiect POO\\Proiect-POO\\Proiect POO\\Proiect POO.csproj": {}
   },
   "projects": {
-    "E:\\POO\\Proiect POO\\Proiect POO\\Proiect POO.csproj": {
+    "E:\\POO\\Proiect POO\\Proiect-POO\\Proiect POO\\Proiect POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\POO\\Proiect POO\\Proiect POO\\Proiect POO.csproj",
+        "projectUniqueName": "E:\\POO\\Proiect POO\\Proiect-POO\\Proiect POO\\Proiect POO.csproj",
         "projectName": "Proiect POO",
-        "projectPath": "E:\\POO\\Proiect POO\\Proiect POO\\Proiect POO.csproj",
+        "projectPath": "E:\\POO\\Proiect POO\\Proiect-POO\\Proiect POO\\Proiect POO.csproj",
         "packagesPath": "C:\\Users\\mihne\\.nuget\\packages\\",
-        "outputPath": "E:\\POO\\Proiect POO\\Proiect POO\\obj\\",
+        "outputPath": "E:\\POO\\Proiect POO\\Proiect-POO\\Proiect POO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
